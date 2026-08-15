@@ -1,0 +1,2 @@
+# No third-party dependencies required yet.
+# Terraria protocol implementation will use Python standard library.
